@@ -45,7 +45,8 @@ A decentralised event ticketing DApp where each ticket is an ERC-721 NFT. The co
   - `npm run format`
 
 ## Notes
-- Owner creates events via `createEvent(...)`. For demo, you can call it in Hardhat console:
+- User creates events via `createEvent(...)`. For demo, we can call it in Hardhat console:
   - `npx hardhat console --network sepolia`
 - Minting requires paying the event price.
 
+© Muhammad Junaid Mir
