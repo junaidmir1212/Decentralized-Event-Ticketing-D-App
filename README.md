@@ -44,11 +44,6 @@ A decentralised event ticketing DApp where each ticket is an ERC-721 NFT. The co
 - Prettier:
   - `npm run format`
 
-## Zipping for Moodle
-Zip the repository but exclude `node_modules` folders:
-- root `node_modules/`
-- `client/node_modules/`
-
 ## Notes
 - Owner creates events via `createEvent(...)`. For demo, you can call it in Hardhat console:
   - `npx hardhat console --network sepolia`
